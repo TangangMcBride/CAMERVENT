@@ -5,8 +5,6 @@ const Post = () => {
   return (
     <div className="post">
       <BlogPost />
-      <BlogPost />
-      <BlogPost />
     </div>
   );
 }
